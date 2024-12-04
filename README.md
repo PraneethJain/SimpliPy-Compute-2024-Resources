@@ -17,4 +17,4 @@ Resources for the SimpliPy workshop held as part of Compute 2024 at IIT Gandhina
 
 ## Semantics implemented as an interpreter
 
-The semantics have been implemented in Rust, and tested against CPython test cases: https://github.com/praneethjain/simplipy
+The semantics have been implemented in Rust, and tested against CPython test cases: https://github.com/PraneethJain/simplipy/tree/storeless
