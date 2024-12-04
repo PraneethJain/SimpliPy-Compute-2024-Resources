@@ -5,6 +5,7 @@ Resources for the SimpliPy workshop held as part of Compute 2024 at IIT Gandhina
 ## Slides
 
 - [Introduction](./slides/introduction.pdf)
+- [Transition Systems](./slides/transition-systems.pdf)
 - [Sequential Notional Machine](./slides/sequential.pdf)
 - [Conditional Notional Machine](./slides/conditional.pdf)
 - [Iterative Notional Machine](./slides/iterative.pdf)
