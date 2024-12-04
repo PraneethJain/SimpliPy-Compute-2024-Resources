@@ -9,5 +9,12 @@ Resources for the SimpliPy workshop held as part of Compute 2024 at IIT Gandhina
 - [Conditional Notional Machine](./slides/conditional.pdf)
 - [Iterative Notional Machine](./slides/iterative.pdf)
 
+## Examples
+
+
 ## Worksheets
 
+
+## Semantics implemented as an interpreter
+
+The semantics have been implemented in Rust, and tested against CPython test cases: https://github.com/praneethjain/simplipy
