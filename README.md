@@ -13,8 +13,8 @@ Resources for the SimpliPy workshop held as part of Compute 2024 at IIT Gandhina
 ## Examples
 - [Sequential Programs](./examples/sequential/)
 - [Conditional Programs](./examples/conditional/)
-<!---
 - [Iterative Programs](./examples/iterative/)
+<!---
 - [Procedural Programs](./examples/procedural/)
 --->
 
