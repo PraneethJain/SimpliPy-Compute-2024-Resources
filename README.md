@@ -11,10 +11,17 @@ Resources for the SimpliPy workshop held as part of Compute 2024 at IIT Gandhina
 - [Iterative Notional Machine](./slides/iterative.pdf)
 
 ## Examples
-
+- [Sequential Programs](./examples/sequential/)
+- [Conditional Programs](./examples/conditional/)
+- [Iterative Programs](./examples/iterative/)
+<!---
+- [Procedural Programs](./examples/procedural/)
+--->
 
 ## Worksheets
 
+- [Worksheet-0](./worksheets/worksheet-0.pdf)
+- [Worksheet-1](./worksheets/worksheet-1.pdf)
 
 ## Semantics implemented as an interpreter
 
