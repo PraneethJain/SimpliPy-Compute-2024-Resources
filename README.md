@@ -9,6 +9,7 @@ Resources for the SimpliPy workshop held as part of Compute 2024 at IIT Gandhina
 - [Sequential Notional Machine](./slides/sequential.pdf)
 - [Conditional Notional Machine](./slides/conditional.pdf)
 - [Iterative Notional Machine](./slides/iterative.pdf)
+- [Procedural Notional Machine](./slides/procedural.pdf)
 
 ## Examples
 - [Sequential Programs](./examples/sequential/)
