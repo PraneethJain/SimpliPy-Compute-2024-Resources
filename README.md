@@ -24,7 +24,7 @@ Resources for the SimpliPy workshop held as part of Compute 2024 at IIT Gandhina
 
 - [Worksheet-0](./worksheets/worksheet-0.pdf)
 - [Worksheet-1](./worksheets/worksheet-1.pdf)
-- - [Worksheet-2](./worksheets/worksheet-2.pdf)
+- [Worksheet-2](./worksheets/worksheet-2.pdf)
 - [Worksheet-3](./worksheets/worksheet-3.pdf)
 
 ## Semantics implemented as an interpreter
